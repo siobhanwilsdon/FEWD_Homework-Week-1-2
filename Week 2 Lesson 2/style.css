@@ -1,0 +1,145 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.header-container{
+	background-image: url(images/header_bg.jpg);
+	background-color: solid black;
+	background-position: 100% 100%;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+
+nav{
+	color: white;
+	font-size: 24px;
+	font-weight: bolder;
+	padding: 3% 6% 3% 6%;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+
+#top a:hover, a:visited, a:active, a:link{
+	display: block;
+	margin: 0 auto;
+	width: 80px;
+	color: #033048;
+	background-color: #f9e42e;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bolder;
+	padding: 7px 30px 7px 30px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+
+.main-container{
+	background-color: #f0efef;
+	height: 300px;
+}
+
+h2{
+	color: #033048;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 6% 6% 0% 6%;
+}
+
+p{
+	color: #606161;
+	font-size: 13px;
+	font-weight: lighter;
+	padding: 0% 6% 0% 6%;
+}
+
+ul{
+	padding-left: 15%;
+}
+
+li{
+	color: #606161;
+	font-size: 13px;
+	font-weight: lighter;
+	padding-top: 3px;
+}
+
+.aside-container{
+	background-image: url(images/testimonial_bg.jpg);
+	background-color: solid black;
+	background-position: 100% 100%;
+	background-repeat: no-repeat;
+	height: 200px;
+}
+
+.quote{
+	display: block;
+	margin: 0 auto;
+	width: 600px;
+	color: white;
+	text-align: center;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: lighter;
+	padding-top: 50px;
+}
+
+.name{
+	display: block;
+	margin: 0 auto;
+	width: 200px;
+	color: white;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.button-container{
+	background-color: #f9e42e;
+	padding-top: 10px;
+	height: 40px;
+	display: block;
+}
+
+#bottom a:hover, a:visited, a:active, a:link{
+	display: block;
+	margin: 0 auto;
+	color: white;
+	background-color: #033048;
+	text-align: center;
+	font-size: 12px;
+	font-weight: bolder;
+	padding: 7px 30px 7px 30px;
+	border-radius: 5px;
+}
+
+.footer-container{
+	background-color: #121212;
+	height: 200px;
+}
+
+.footer-content{
+	color: #f9e42e;
+	text-align: center;
+	font-size: 9px;
+	font-weight: bold;
+
+}
+
+img{
+	display: inline-block;
+	margin: 0 auto;
+
+}
+
+
+
+
+
+

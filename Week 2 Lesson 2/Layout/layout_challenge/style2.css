@@ -1,0 +1,36 @@
+body{
+	margin: 40px;
+	}
+
+.container{
+	display: flex;
+	justify-content: space-between;
+}
+
+header{
+	height: 100px;
+	background-color: beige;
+	border: 2px solid grey;
+	margin-bottom: 20px;
+}
+
+section{
+	height: 300px;
+	width: 55%;
+	background-color: beige;
+	border: 2px solid grey;
+}
+
+aside{
+	height: 300px;
+	width: 20%;
+	background-color: beige;
+	border: 2px solid grey;
+}
+
+footer{
+	height: 100px;
+	background-color: beige;
+	border: 2px solid grey;
+	margin-top: 20px;
+}

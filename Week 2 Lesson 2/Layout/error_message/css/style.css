@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.4;
+  margin: 30px;
+}
+
+.message{
+	background-color: black;
+	color: white;
+}
+
+.error{
+	background-color: red;
+	color: white;
+
+}
+
+#sucess{
+	background-color: green;
+	color: white;
+}
